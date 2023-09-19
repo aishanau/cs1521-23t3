@@ -1,7 +1,7 @@
 # Tutorial 2
 
 ## Slides link:
-[Week 2]()
+[Week 2](https://docs.google.com/presentation/d/1Ru2yI91Gpc6Ou5avrbAy_691v-yktMEoB_kfdmskbnI/edit?usp=sharing)
 
 ## Tutorial + Lab Links
 - [Tutorial](https://cgi.cse.unsw.edu.au/~cs1521/23T3/tut/02/questions)
