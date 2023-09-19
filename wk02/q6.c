@@ -8,9 +8,20 @@ int main(void) {
     printf("Enter a number: ");
     scanf("%d", &x);
 
-    if (x > 100 && x < 1000) {
+
+    if (x <= 100) goto small_big;
+    if (x >= 1000) goto small_big;
+
+
+medium:
         printf("medium\n");
-    } else {
+        goto end_if;
+
+small_big:
         printf("small/big\n");
-    }
+
+end_if:
+return_zero:
+    return 0;
+    
 }

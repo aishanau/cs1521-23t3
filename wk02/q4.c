@@ -10,7 +10,9 @@ int main(void) {
 
     y = x * x;
 
-    printf("%d\n", y);
+    printf("%d", y);
+    
+    printf("\n");
 
     return 0;
 }
