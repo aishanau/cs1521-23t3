@@ -23,6 +23,22 @@ int main(int argc, char *argv[]) {
 
     }
 
+    int array[10];
+
+    array === int*
+
+    char** ret = (char**) malloc(10)
+    char ret[MAX_LISTING][MAX_PATJ_LENTH];
+
+    strdup(de.d_name);
+    free()
+
+    ret[0]; 
+    ret[0] = malloc()
+
+
+    ret === char**
+
 
     return 0;
 }
