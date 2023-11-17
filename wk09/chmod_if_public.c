@@ -38,7 +38,6 @@ int main(int argc, char *argv[]) {
     // SI_IWOTH = 0b 000 000 010
     // mode =     0b 010 101 000 (This is not currently publicly writeable)
     //            0b 000 000 000  
-    IS_DIR
     // if file is publically writeable, 
     if ((permissions & S_IWOTH) != 0) {
         // then remove the permission
