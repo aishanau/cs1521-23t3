@@ -11,6 +11,10 @@ int8_t twos_complement(uint8_t num) {
     // flip all bits
     return ~(num - 1);
     // return -num;
+
+    // int a = 11;
+    // int a = 0xB;
+    // int a = 0b1011;
 }
 
 int main(void) {
